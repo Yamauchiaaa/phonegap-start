@@ -42,6 +42,8 @@
         <preference name="phonegap-version"       value="3.5.0" />
     -->
 
+    <preference name="debuggable"    value="false" />     
+
     <!-- Plugins -->
 
     <!-- Core plugins -->
@@ -135,3 +137,4 @@
     </platform>
 
 </widget>
+
